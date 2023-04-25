@@ -751,11 +751,11 @@
   )
 
   (no_connect (at 209.55 111.76) (uuid 009df09a-1c74-4201-b0bf-cc67ef04209c))
-  (no_connect (at 240.03 86.36) (uuid 0d2c2214-da07-4d4f-996d-d534adbc8ccd))
+  (no_connect (at 240.03 78.74) (uuid 0ca8d5d0-95a9-45f6-908e-a1d3ee438839))
   (no_connect (at 240.03 91.44) (uuid 24aa05f3-fcbf-4de6-ae58-ea5d0ac6633f))
   (no_connect (at 209.55 96.52) (uuid 34a79d4a-3edf-4c1a-ba17-d837cf4b4ae3))
-  (no_connect (at 240.03 88.9) (uuid 813a5a10-ef56-4d19-8d5a-c1137f3fa50f))
   (no_connect (at 76.2 60.96) (uuid a2f9659a-9744-484a-86db-6068d708835f))
+  (no_connect (at 240.03 76.2) (uuid b563e9ec-a463-4e88-af7f-9e6a5a87f496))
   (no_connect (at 240.03 93.98) (uuid ec64d7a6-a3a5-4b34-b3ab-4fe15587e801))
   (no_connect (at 76.2 55.88) (uuid f17eb750-6303-4089-ad75-9ce471ce0de7))
 
@@ -1046,7 +1046,7 @@
     (uuid 2acac0e3-be1a-4aec-9504-7f4c5230a9fe)
   )
 
-  (label "LED2" (at 240.03 78.74 0) (fields_autoplaced)
+  (label "LED2" (at 240.03 86.36 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 089df5fa-4058-4797-9763-e1bdc4e20e95)
   )
@@ -1082,7 +1082,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7882a4b8-4c6b-4a8b-86b1-ed2f0f62e0c5)
   )
-  (label "LED1" (at 240.03 76.2 0) (fields_autoplaced)
+  (label "LED1" (at 240.03 88.9 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7e00f1b5-68de-4f45-a9e4-5c8b7f6d24d9)
   )
